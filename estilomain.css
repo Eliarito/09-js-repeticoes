@@ -1,0 +1,31 @@
+body {
+    background: rgb(105, 105, 105);
+    font: normal 15pt Arial; 
+}
+header {
+    color:rgb(197, 197, 197);
+    text-align: center;
+    font-style: italic;
+    font: normal 25pt italic;
+}
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+    font-style: italic;
+}
+
+div{
+    color:rgb(197, 197, 197);
+    text-align: center;
+    font-style: italic;
+    font: normal 25pt italic;
+}
+
+ul {
+    color:rgb(197, 197, 197);
+    text-align: left;
+}
